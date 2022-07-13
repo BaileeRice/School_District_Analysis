@@ -18,7 +18,7 @@ AFTER: ![image](https://user-images.githubusercontent.com/105184244/178848114-02
 
 ---
 
--Thomas High School's average math and reading grades fell from 83.42% ---> 83.35% and 83.84% 
+-Thomas High School's average math and reading grades fell from 83.42% ---> 83.35% and 83.84% ---> 83.89% respectively
 
 BEFORE: ![image](https://user-images.githubusercontent.com/105184244/178850602-c2cbc3ea-6bf2-4e24-8fa7-833d3be5ae63.png)
 
