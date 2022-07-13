@@ -43,5 +43,5 @@ OVERALL PASSING PERCENTAGE from 65% ---> 64.9%
 ---
 
 SUMMARY:
-Overall, the academic dishonesty in the 9th grade class at Thomas High had a relatively non-existant effect in the grand scheme of things. However, it's good that we made the change to show the data as accurate as possible to help the board decide on who gets funding, that one percent discrepancy could be the difference between a school or class getting less/more funding than it shouldve, which is exactly what we dont want.    
+Overall, the academic dishonesty in the 9th grade class at Thomas High had a relatively non-existant effect in the grand scheme of things. However, it's good that we made the change to show the data as accurate as possible to help the board decide on who gets funding, that one percent discrepancy could be the difference between a school or class getting less/more funding than it shouldve, which is exactly what we dont want. This revised data-set should help steer the school board in the right direction.    
 
