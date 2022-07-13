@@ -7,6 +7,7 @@ A school board has commissioned you to revise a data-set of grades due to academ
 
 RESULTS:
 -The district summary saw negligable changes after further investigation, with the average scores remaining basically unaffected(~.1% change).
+
 -Overall passing saw a similar change, from 65.2% ---> 64.9
 
 BEFORE: ![image](https://user-images.githubusercontent.com/105184244/178848276-83c7aaa1-8cb7-4461-9597-615d340b4803.png)
@@ -28,10 +29,15 @@ AFTER: ![image](https://user-images.githubusercontent.com/105184244/178850336-7e
 ---
 
 NINTH GRADE SCORE CHANGES:
+
 AVG MATH from 79% ---> 78.9%
+
 AVG READING remained 81.9%
+
 AVG MATH SUCCESS RATE from 75% ---> 74.8%
+
 AVG READING SUCCESS RATE from 86% ---> 85%
+
 OVERALL PASSING PERCENTAGE from 65% ---> 64.9%
 
 ---
