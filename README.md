@@ -1,11 +1,13 @@
 # School_District_Analysis
 
 OVERVIEW:
+
 A school board has commissioned you to revise a data-set of grades due to academic dishonesty, the incident happened in the 9th grade classes specifically. We'll be trying to get the full picture of the academic landscape by sorting the data by grade, school, and school type to get a better idea of funding for the next school year.
 
 ---
 
 RESULTS:
+
 -The district summary saw negligable changes after further investigation, with the average scores remaining basically unaffected(~.1% change).
 
 -Overall passing saw a similar change, from 65.2% ---> 64.9
