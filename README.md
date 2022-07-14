@@ -10,7 +10,7 @@ RESULTS:
 
 -The district summary saw negligable changes after further investigation, with the average scores remaining basically unaffected(~.1% change).
 
--Overall passing saw a similar change, from 65.2% ---> 64.9
+-Overall passing saw a similar change, from 65.2% ---> 64.9%
 
 BEFORE: ![image](https://user-images.githubusercontent.com/105184244/178848276-83c7aaa1-8cb7-4461-9597-615d340b4803.png)
 
